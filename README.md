@@ -10,7 +10,7 @@ https://angry-bird-clone.vercel.app
 * 'B' to spawn new ball at mouse position
 * Left and Right arrow keys to control the direction the propeller shoudl rotate
 * Knock down all blocks before timer runs out!
-#
+
 ### 2) Asteroid Game Clone
 https://asteroid-game-clone.vercel.app
 
@@ -18,11 +18,13 @@ https://asteroid-game-clone.vercel.app
 * Left, Right, Up, Down arrow keys to control the Spaceship
 * Spacebar to spawn bullet
 * Knock down all asteroid , and make sure spaceship doesnt touch the "earth"!
-#
+
 ### 3) Noisy Grid
 https://noisy-grid.vercel.app
 
 Noisy grid uses noise and mouseX position to map the colour change, as well as the compass needles' angle of rotation.
-#
+
+
+
 ### 4) Solar System
 https://user-images.githubusercontent.com/62084317/226550781-c0de54e6-8bbd-42a2-aa47-aa334144ac8d.mov
