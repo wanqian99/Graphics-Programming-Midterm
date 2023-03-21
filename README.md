@@ -15,13 +15,12 @@ https://asteroid-game-clone.vercel.app
 
 ##### How to play:
 * Left, Right, Up, Down arrow keys to control the Spaceship
-* * Spacebar to spawn bullet
+* Spacebar to spawn bullet
 * Knock down all asteroid , and make sure spaceship doesnt touch the "earth"!
 
 
 ### 3) Noisy Grid
-https://graphics-programming-midterm-k47oehwb3-wanqian99.vercel.app
+
 
 
 ### 4) Solar System
-https://graphics-programming-midterm-k47oehwb3-wanqian99.vercel.app
