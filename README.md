@@ -20,7 +20,9 @@ https://asteroid-game-clone.vercel.app
 
 
 ### 3) Noisy Grid
+https://noisy-grid.vercel.app
 
-
+Noisy grid uses noise and mouseX position to map the colour change, as well as the compass needles' angle of rotation.
 
 ### 4) Solar System
+https://user-images.githubusercontent.com/62084317/226550781-c0de54e6-8bbd-42a2-aa47-aa334144ac8d.mov
