@@ -28,6 +28,6 @@ Noisy grid uses noise and mouseX position to map the colour change, as well as t
 
 
 ### 4) Solar System
-https://user-images.githubusercontent.com/62084317/226550781-c0de54e6-8bbd-42a2-aa47-aa334144ac8d.mov
-
 This project involves using P5.js in-built push and pop functions, to rotate ellipses around different axis, to mimic the solar system.
+
+https://user-images.githubusercontent.com/62084317/226550781-c0de54e6-8bbd-42a2-aa47-aa334144ac8d.mov
